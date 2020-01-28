@@ -1,0 +1,144 @@
+{
+    "profile": {
+        "id": 1,
+        "username": "meirusfandi",
+        "name": "Mei Rusfandi",
+        "email": "me@meirusfandi.com",
+        "phone": "082281197161",
+        "photo": "http://res.meirusfandi.com/assets/images/update.jpg"
+    },
+    "articles": [
+        {
+            "id": 1,
+            "title": "accusamus beatae ad facilis cum similique qui sunt",
+            "content": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+            "background": "https://via.placeholder.com/600/92c952",
+            "createdAt": "Jan 05 2020 11:00:50 AM"
+        },
+        {
+            "id": 2,
+            "title": "reprehenderit est deserunt velit ipsam",
+            "content": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
+            "background": "https://via.placeholder.com/600/771796",
+            "createdAt": "Jan 05 2020 11:00:50 AM"
+        },
+        {
+            "id": 3,
+            "title": "officia porro iure quia iusto qui ipsa ut modi",
+            "content": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut",
+            "background": "https://via.placeholder.com/600/24f355",
+            "createdAt": "Jan 05 2020 11:00:50 AM"
+        },
+        {
+            "id": 4,
+            "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+            "content": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit",
+            "background": "https://via.placeholder.com/600/d32776",
+            "createdAt": "Jan 05 2020 11:00:50 AM"
+        },
+        {
+            "id": 5,
+            "title": "natus nisi omnis corporis facere molestiae rerum in",
+            "content": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque",
+            "background": "https://via.placeholder.com/600/f66b97",
+            "createdAt": "Jan 05 2020 11:00:50 AM"
+        },
+        {
+            "id": 6,
+            "title": "accusamus ea aliquid et amet sequi nemo",
+            "content": "ut aspernatur corporis harum nihil quis provident sequi\nmollitia nobis aliquid molestiae\nperspiciatis et ea nemo ab reprehenderit accusantium quas\nvoluptate dolores velit et doloremque molestiae",
+            "background": "https://via.placeholder.com/600/56a8c2",
+            "createdAt": "Jan 05 2020 11:00:50 AM"
+        },
+        {
+            "id": 7,
+            "title": "officia delectus consequatur vero aut veniam explicabo molestias",
+            "content": "dolore placeat quibusdam ea quo vitae\nmagni quis enim qui quis quo nemo aut saepe\nquidem repellat excepturi ut quia\nsunt ut sequi eos ea sed quas",
+            "background": "https://via.placeholder.com/600/b0f7cc",
+            "createdAt": "Jan 05 2020 11:00:50 AM"
+        },
+        {
+            "id": 8,
+            "title": "aut porro officiis laborum odit ea laudantium corporis",
+            "content": "dignissimos aperiam dolorem qui eum\nfacilis quibusdam animi sint suscipit qui sint possimus cum\nquaerat magni maiores excepturi\nipsam ut commodi dolor voluptatum modi aut vitae",
+            "background": "https://via.placeholder.com/600/54176f",
+            "createdAt": "Jan 05 2020 11:00:50 AM"
+        },
+        {
+            "id": 9,
+            "title": "qui eius qui autem sed",
+            "content": "consectetur animi nesciunt iure dolore\nenim quia ad\nveniam autem ut quam aut nobis\net est aut quod aut provident voluptas autem voluptas",
+            "background": "https://via.placeholder.com/600/51aa97",
+            "createdAt": "Jan 05 2020 11:00:50 AM"
+        },
+        {
+            "id": 10,
+            "title": "beatae et provident et ut vel",
+            "content": "quo et expedita modi cum officia vel magni\ndoloribus qui repudiandae\nvero nisi sit\nquos veniam quod sed accusamus veritatis error",
+            "background": "https://via.placeholder.com/600/810b14",
+            "createdAt": "Jan 05 2020 11:00:50 AM"
+        }
+    ],
+    "cities": [
+        {
+            "id": 1,
+            "cityName": "Aceh",
+            "cityImage": "http://res.meirusfandi.com/assets/images/aceh.jpg",
+            "price": 200000
+        },
+        {
+            "id": 2,
+            "cityName": "Bandung",
+            "cityImage": "http://res.meirusfandi.com/assets/images/bandung.jpg",
+            "price": 200000
+        },
+        {
+            "id": 3,
+            "cityName": "Jakarta",
+            "cityImage": "http://res.meirusfandi.com/assets/images/jakarta.jpg",
+            "price": 200000
+        },
+        {
+            "id": 4,
+            "cityName": "Makasar",
+            "cityImage": "http://res.meirusfandi.com/assets/images/makasar.jpg",
+            "price": 200000
+        },
+        {
+            "id": 5,
+            "cityName": "Medan",
+            "cityImage": "http://res.meirusfandi.com/assets/images/medan.jpg",
+            "price": 200000
+        },
+        {
+            "id": 6,
+            "cityName": "Padang",
+            "cityImage": "http://res.meirusfandi.com/assets/images/padang.jpg",
+            "price": 200000
+        },
+        {
+            "id": 7,
+            "cityName": "Pontianak",
+            "cityImage": "http://res.meirusfandi.com/assets/images/pontianak.jpg",
+            "price": 200000
+        },
+        {
+            "id": 8,
+            "cityName": "Samarinda",
+            "cityImage": "http://res.meirusfandi.com/assets/images/samarinda.jpg",
+            "price": 200000
+        },
+        {
+            "id": 9,
+            "cityName": "Surabaya",
+            "cityImage": "http://res.meirusfandi.com/assets/images/surabaya.jpg",
+            "price": 200000
+        },
+        {
+            "id": 10,
+            "cityName": "Lampung",
+            "cityImage": "http://res.meirusfandi.com/assets/images/lampung.jpg",
+            "price": 200000
+        }
+    ]
+}
